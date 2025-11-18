@@ -1,8 +1,7 @@
 # Reyalspoken-
-Sobre mim
 # 👋 Olá! Eu sou o Erick
 Estudante de **Engenharia da Computação (UnB)** e técnico em **Informática** e **Manutenção e Suporte**.  
-Apaixonado por **linguagens de baixo nível, IA, segurança da informação e desenvolvimento de sistemas de alta performance**.( Não tenho experiencia pratica apoenas teórica)
+Apaixonado por **linguagens de baixo nível, IA, segurança da informação e desenvolvimento de sistemas de alta performance**.(Ainda sem experiência prática nessas áreas, mas com forte base teórica e em constante evolução.)
 
 Atualmente, estou aprofundando meus estudos em:
 
@@ -11,16 +10,16 @@ Atualmente, estou aprofundando meus estudos em:
 - 🐍 **Python**
 - 🔧 Sistemas e Arquitetura
 - 
-E planejo ver:
-- 🦀 **Rust**
-- 🧠 **Inteligência Artificial** 
-- 🔐 **Segurança da Informação**
+📘 Planejo estudar em seguida:
+- 🦀 Rust
+- 🧠 Inteligência Artificial
+- 🔐 Segurança da Informação
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 **Linguagens:**  
-➡️ C, C++, Python. (Enferrujado)
+➡️ C, C++, Python. (no momento um pouco enferrujado, mas planejo revisar)
 
 **Áreas de Interesse:**  
 - Estruturas de Dados  
@@ -37,13 +36,13 @@ Git • Linux • VS Code • GCC/Clang • Cargo
 
 ## 📌 Projetos em Destaque
 
-### 🔹 **📝 Notepad em Rust + Firebase**  
-Aplicação em Rust com integração a banco de dados remoto. Foco em performance, segurança e concorrência.
+### 🔹 **📝 Notepad em Rust + Firebase**  (estou em um grupo fazendo)
+Aplicação em Rust com integração a banco de dados remoto. Foco em performance, segurança e concorrência. 
 
-### 🔹 **🌐 Projeto P2P (Redes)**  
+### 🔹 **🌐 Projeto P2P (Redes)**  (Estou fazendo sozinho)
 Implementação de um sistema peer-to-peer com registro, comunicação e testes em loopback.
 
-### 🔹 **💻 C / C++ (Fundamentos e Estruturas de Dados)**  
+### 🔹 **💻 C / C++ (Fundamentos e Estruturas de Dados, exercicios do bee crowd)**  
 Exercícios e projetos com listas, filas, pilhas, algoritmos e lógica.
 
 ### 🔹 **🐍 Python – Algoritmos e pequenos projetos**  
@@ -57,6 +56,7 @@ Scripts e automações diversos.
 - Construir projetos aplicados à vida real.  
 - Aumentar meu portfólio no GitHub com projetos sólidos.  
 - Crescer como desenvolvedor full-stack e pesquisador.
+- Melhorar proficiencia em linguagems  que eu já usei 
 
 ---
 
